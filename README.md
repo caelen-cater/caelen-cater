@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hello@caelen.co**
 
-- ⚡ Fun fact **I'm from the London, UK**
+- ⚡ Fun fact **I'm from London, UK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
