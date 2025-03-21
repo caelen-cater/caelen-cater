@@ -32,7 +32,3 @@
 <p><a href="https://www.buymeacoffee.com/caelen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caelen" /></a></p><br><br>
 <br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caelen-cater&show_icons=true&locale=en&layout=compact" alt="caelen-cater" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caelen-cater&show_icons=true&locale=en" alt="caelen-cater" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caelen-cater&" alt="caelen-cater" /></p>
