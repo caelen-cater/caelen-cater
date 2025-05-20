@@ -30,5 +30,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/caelen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caelen" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caelen-cater&show_icons=true&locale=en&layout=compact" alt="caelen-cater" /></p>
-
